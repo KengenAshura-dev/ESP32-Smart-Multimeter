@@ -115,7 +115,7 @@ Add your own project photos to `Images/`, then link them here. Suggested photos:
 
 **Manish Jaywant Patil**
 
-Electronics & Telecommunication Engineering | Embedded Systems
+Electronics & Telecommunication Engineering
 
 ---
 
